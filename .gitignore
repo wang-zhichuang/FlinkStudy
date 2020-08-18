@@ -1,0 +1,4 @@
+# Project exclude paths
+/KafkaFlinkMySQLDemo/target/
+/KafkaToFlinkToKafka/target/
+/.idea/
